@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    box-sizing: border-box
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.MainH {
+    background-color: white;
+
+}    
+    
+
+.Header {
+    top: 0;
+    margin-top: 0;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Georgia, Times, Times New Roman, serif;
+    font-weight: bold;
+    font-size: 26px;
+    letter-spacing: .5px;
+    margin: 0;
+    margin-left: 16%;
+    margin-right: 70%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center; 
+    position: relative;
+}
+
+.Header2 {
+    font-family: Arial, Hevetica Neue, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 0;
+    margin-top: 0;
+    right: 16%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #777777;
+    
+}
+
+.Heading {
+    font-size: 26px;
+    font-weight: bold;
+    font-family: Georgia, Times, Times New Roman, serif;
+    color: #4aaaa5; 
+   letter-spacing: .5px;
+    margin-left:3%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom-style: solid;
+    border-width: 3px;
+    border-color: #dddddd;
+    margin-right: 40px;
+
+}
+
+.Outer-C {
+    background-image: href= "gravel.png";
+    background-color: #dddddd;
+    padding-top: 16px;
+}
+
+
+
+
+.Container {
+    width: 960px;
+    height: 585px;
+    margin-top: 30px;
+    background-color:#ffffff;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 1px;
+    position: relative;
+    left: 16.5%;
+}
+
+.Me-Pic {
+    float: left;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+   
+   
+}
+
+.Main-P{
+    font-family: Arial, Hevetica Neue, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    line-height: 36px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.NEBox {
+    height: 30px;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+
+}
+
+#Message-Box {
+    height: 200px;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dddddd; 
+
+}
+
+.PBox {
+    height: 170px;
+    width: 230px;
+    margin-top: 40px;
+    margin-bottom: 45px;
+    margin-left: 30px;
+
+}
+
+#Hang {
+    background-color: blue;
+    position: relative;
+
+}
+
+#RpgBox {
+    background-color: powderblue;
+    position: relative; 
+    bottom: 215px; 
+    left: 270px;
+}
+
+#Trivia {
+    background-color: palegreen;
+    position: relative;
+    bottom: 215px;
+    }
+
+#RIW {
+    background-color: greenyellow;
+    position: relative;
+    bottom: 430px;
+    left: 270px;
+
+}
+
+#RPS {
+    background-color: yellowgreen;
+    position: relative;
+    bottom: 430px;
+}
+
+.Footer {
+    font-family: Arial, Hevetica Neue, Helvetica, sans-serif;
+    font-size: 8px;
+    text-align: center;
+    
+    bottom: 0;
+    margin-bottom: 0;
+    color: white;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #666666;
+    border-top-style: solid;
+    border-width: 6px;
+    border-color: #4aaaa5;
+    height: 30 px;
+    
+    
+}
